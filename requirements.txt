@@ -1,0 +1,9 @@
+aiogram
+python-dotenv
+gspread
+gspread_dataframe
+pandas
+sqlalchemy
+aiosqlite
+greenlet
+yookassa
